@@ -1,0 +1,21 @@
+{
+  "name": "css-flexbox",
+  "version": "1.0.0",
+  "description": "All you need to know about css flexbox",
+  "main": "index.js",
+  "dependencies": {
+    "gitbook-plugin-expandable-chapters": "^0.2.0",
+    "gitbook-plugin-addcssjs": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.gitbook.com/hemantajax/css-flexbox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
